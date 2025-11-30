@@ -1,1 +1,1 @@
-# World-Ladder
+# Word-Ladder
